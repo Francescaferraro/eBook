@@ -1,4 +1,4 @@
 # eBook
-eBook realizzato per l'esame universitario di Editoria digitale, basato sul film "The imitation game" - data di realizzazione: Gennaio 2021
+Ebook created for the university exam in Digital Publishing, based on the film 'The Imitation Game' - Date of Creation: January 2021
 
-Software utilizzato: Calibre
+Software Used: Calibre
